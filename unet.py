@@ -14,7 +14,7 @@ from keras import backend as K
 from skimage.exposure import rescale_intensity
 from keras.callbacks import History
 from skimage import io
-from lddt import load_train_data, load_test_data
+from data import load_train_data, load_test_data
 import SimpleITK as sitk
 import nibabel as nib 
 from medpy.io import load, save
