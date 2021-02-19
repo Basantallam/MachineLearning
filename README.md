@@ -1,5 +1,6 @@
 # MachineLearning-Segmentation
-Unet 2.5D model for image segmentation. Original resource: https://github.com/jocicmarko/ultrasound-nerve-segmentation
+The Following model is a Unet 2.5D model for image segmentation which, we designed and used in Segmentation of Brain Lesions in MRI scans of Multiple Sclerosis Patients.
+ Original resource: https://github.com/jocicmarko/ultrasound-nerve-segmentation
 
 Two different 2.5D Slicing Techniques were teted independently:
 1. 5 Slices in same plane:
