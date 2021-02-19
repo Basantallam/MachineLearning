@@ -2,7 +2,7 @@
 The Following model is a Unet 2.5D model for image segmentation which, we designed and used in Segmentation of Brain Lesions in MRI scans of Multiple Sclerosis Patients.
  Original resource: https://github.com/jocicmarko/ultrasound-nerve-segmentation
 
-Two different 2.5D Slicing Techniques were teted independently:
+Two different 2.5D Slicing Approaches for the 3D MRI scans were tested independently:
 1. 5 Slices in same plane:
 in this technique, 5 slices from the center of each 3D image were obtained and used for training the model
 2. 3 Orthogonal planes:
