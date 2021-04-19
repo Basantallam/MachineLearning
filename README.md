@@ -1,4 +1,4 @@
-# MachineLearning-Segmentation
+# MachineLearning
 The Following model is a Unet 2.5D model for image segmentation which, we designed and used in Segmentation of Brain Lesions in MRI scans of Multiple Sclerosis Patients.
  Original resource: https://github.com/jocicmarko/ultrasound-nerve-segmentation
 
